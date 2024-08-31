@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://github.com/LaurenAMolloy/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://laurenamolloy.github.io/blog-preview-card-main/)
 
 
 ### Built with
